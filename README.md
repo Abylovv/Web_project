@@ -1,13 +1,15 @@
 # Web_project
-# TEAMS:
+# TEAM MEMBERS:
 # Isakov Zhantai com21b
 # Ormonov Elmirbek com21b
 #  Abdivaliev Syimyk  com21a
+
 
 Our project was about university, we all know sometimes when we want to play football or volleyball
 we should go and inform sport department and book game places three or two days early. So we tried solve this problem,
 in order to make this process ease, we've developed booking Web-app. With this app you can book online with one click.
 We hope it'll help and make students life comfortable.
+
 
 
 
@@ -44,4 +46,4 @@ We hope it'll help and make students life comfortable.
 
 
 
-We did all app about uni and we have added University logo....
+We did all app about university and we have added University logo....
