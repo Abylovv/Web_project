@@ -14,11 +14,16 @@ We hope it'll help and make students life comfortable.
 ![image](https://user-images.githubusercontent.com/99861616/208325577-f7fcdc34-71d8-4d7c-8f81-d8f9f5f4e23d.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325585-6efa9bf8-290b-4f73-a603-51b3494a9e40.png)
  # Mobile phone
+ You can use this app even with phone, because we made it responsive.
 ![image](https://user-images.githubusercontent.com/99861616/208325677-7e888c2f-66e5-4018-a188-bd1f345551d8.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325683-100bfe8a-0f8d-49d4-a1f6-af9c1861e345.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325688-a6a16818-6251-4c08-87e7-119d4a52af2e.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325696-0148e8a3-a29d-45bb-961a-f80bb41e5d36.png)
  # Booking 
+ In order to book you should follow steps below:
+ 1) Choose category (game places)
+ 2)Write your name, choose date and playing time. !!! (There are some limits whis time, you choose only from 16:00 till 21:00, because till 16:00 there are clasess)
+ 3) Click the "SUBMIT"
 ![image](https://user-images.githubusercontent.com/99861616/208325794-f256171d-00c5-4682-8d2c-aca674ef8b7a.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325814-53bf32dc-e2ae-4e8e-ad0e-25a9fbeab5da.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325826-b455ae90-a630-4899-86e2-404baa72f3e0.png)
