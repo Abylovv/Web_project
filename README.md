@@ -4,6 +4,8 @@
 # Ormonov Elmirbek com21b
 #  Abdivaliev Syimyk  com21a
 
+Our project was about university, we all know sometimes when we want to play football or volleyball
+we can
 
 ![Аннотация 2022-12-19 053524](https://user-images.githubusercontent.com/99861616/208325387-58b5be5f-7d12-4d27-ae74-618a806c5b43.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325570-28724abf-8d80-4a22-8cf6-b57ec7a43632.png)
