@@ -12,8 +12,7 @@ We hope it'll help and make students life comfortable.
 
 
 
-
-![Аннотация 2022-12-19 053524](https://user-images.githubusercontent.com/99861616/208325387-58b5be5f-7d12-4d27-ae74-618a806c5b43.png)
+![image](https://user-images.githubusercontent.com/100375730/208835104-83443502-5c47-4631-802f-251aab34ab2b.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325570-28724abf-8d80-4a22-8cf6-b57ec7a43632.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325577-f7fcdc34-71d8-4d7c-8f81-d8f9f5f4e23d.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325585-6efa9bf8-290b-4f73-a603-51b3494a9e40.png)
